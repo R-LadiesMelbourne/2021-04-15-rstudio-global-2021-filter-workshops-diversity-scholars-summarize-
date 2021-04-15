@@ -1,9 +1,11 @@
 ---
 title: "rstudio::global(2021) %>% filter(workshops == “diversity scholars”) %>% summarize() "
-date: "25/02/2021"
+date: "15/04/2021"
 output: github_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+Please find the slides for the event from [here](https://shaziaruybal.github.io/rstudioglobal2021-divscholar-recap/#p1). 
